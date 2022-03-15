@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+<body>
+     <h1 id="titulo" onclick="alert('clicou')" onmouseover="console.log('passou o mouse')">Seja Bem vindo(a)</h1>
+     <h2>Executa eventos click</h2>
+    <h3>Clicks no botão, no script.js</h3>
+    <button onclick='clicou()'>click aqui</button>
+    <script src="aula05.js"></script>
+</body>
+</html>
